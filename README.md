@@ -27,7 +27,8 @@ This repository contains a Power BI project aimed at analyzing customer behavior
 ![main dashboard](images/main-dashboard.png)
 ![page 1](images/page1.png)
 ![page 2](images/page2.png)
-![page 3](images/page3.png)
+![page 3](images/page3.png
+)
 
 ## How to Use
 
