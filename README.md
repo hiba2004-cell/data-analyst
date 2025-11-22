@@ -38,7 +38,8 @@ This repository contains a Power BI project aimed at analyzing customer behavior
 
 ## Authors
 
-- Rachid Jedata – Project Owner & Data Analyst  
+- Rachid Jedata- Project Owner & Data Analyst
+- Hiba Nadiri – Project Owner & Data Analyst  
 
 ## License
 
