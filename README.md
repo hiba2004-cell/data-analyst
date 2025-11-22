@@ -24,11 +24,15 @@ This repository contains a Power BI project aimed at analyzing customer behavior
 - **Order Decline Severity:** Measure percentage decline for restaurants and cities.  
 - **Revenue Estimation:** revenue in crisis vs pre-crisis.  
 
+![main dashboard](images/main-dashboard.png)
+![page 1](images/page1.png)
+![page 2](images/page2.png)
+![page 3](images/page3.png)
 
 ## How to Use
 
 1. Open the `.pbix` file in Power BI Desktop.  
-2. Load the dataset from the `data/` folder.  
+2. Load the dataset from the `dataset/` folder.  
 3. Use the dashboard filters to analyze pre-crisis vs. crisis periods.  
 4. Explore the interactive visuals to identify insights across customers, cities, and restaurants.
 
